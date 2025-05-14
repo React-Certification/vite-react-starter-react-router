@@ -1,0 +1,18 @@
+group:
+  repos: |
+      React-Certification/l2-code-challenge-bug-1
+      React-Certification/l2-code-challenge-bug-2
+      React-Certification/l2-code-challenge-bug-3
+      React-Certification/l2-code-challenge-feature-1
+      React-Certification/l2-code-challenge-feature-2
+      React-Certification/l2-code-challenge-feature-3
+
+  files:
+  - package.json
+  - package-lock.json
+  - vite.config.js
+  - CHECKLIST.md
+  - README.md
+  - setupTests.js
+  - eslint.config.js
+  - .github/workflows/main.yml
